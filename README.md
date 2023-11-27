@@ -8,7 +8,7 @@ ends at the end of february.
 february of the Gregorian year Y+1 are, for convenience, counted as the eleventh and twelfth months of the year Y
 or previous year. 
 * another convinience is to designate the days of the week, sunday through saturday, by the numbers 0,1,2,....,6.
-where,
+* where,
   -> sunday    = 0
   -> monday    = 1
   -> tuesday   = 2
