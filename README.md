@@ -9,12 +9,12 @@ february of the Gregorian year Y+1 are, for convenience, counted as the eleventh
 or previous year. 
 * another convinience is to designate the days of the week, sunday through saturday, by the numbers 0,1,2,....,6.
 * where,
-  -> sunday    = 0
-  -> monday    = 1
-  -> tuesday   = 2
-  -> wednesday = 3
-  -> thursday  = 4
-  -> friday    = 5
-  -> saturday  = 6
+  | sunday    = 0
+  | monday    = 1
+  | tuesday   = 2
+  | wednesday = 3
+  | thursday  = 4
+  | friday    = 5
+  | saturday  = 6
 
   
